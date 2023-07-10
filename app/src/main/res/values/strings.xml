@@ -4,4 +4,13 @@
     <string name="correo" />
     <string name="clave" />
     <string name="btn_login">Ingresar</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi perfil</string>
+    <string name="titulo">Titulo</string>
+    <string name="contenido">Contenido</string>
 </resources>
