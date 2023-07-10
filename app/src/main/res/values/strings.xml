@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAM_UC4_Parillo</string>
+    <string name="formRegister">Formulario de Registro</string>
+    <string name="correo" />
+    <string name="clave" />
+    <string name="btn_login">Ingresar</string>
+</resources>
